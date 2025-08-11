@@ -1,1 +1,1 @@
-# GlobalNews
+# globalnews
